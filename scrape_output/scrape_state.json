@@ -1,0 +1,14 @@
+{
+  "CBE": {
+    "continuation_token": "<google_play_scraper.features.reviews._ContinuationToken object at 0x00000257561C0C20>",
+    "fetched": 400
+  },
+  "BOA": {
+    "continuation_token": "<google_play_scraper.features.reviews._ContinuationToken object at 0x00000257561C0540>",
+    "fetched": 400
+  },
+  "Dashen": {
+    "continuation_token": "<google_play_scraper.features.reviews._ContinuationToken object at 0x0000025756220CC0>",
+    "fetched": 400
+  }
+}
